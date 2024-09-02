@@ -1,12 +1,10 @@
-## Hi there 👋
+# Welcome to the Research Department of Sogelink
 
-<!--
+## About Us
+Welcome to the official GitHub profile of the Research Department at Sogelink! We are a small dedicated team focused on innovation, research, and development in the fields of geospatial technology. Our mission is to push the boundaries of what’s possible in our industry, driving advancements that benefit both our clients and the broader community.
 
-**Here are some ideas to get you started:**
+## Explore Our Repositories
+This GitHub organization hosts a collection of repositories that showcase our research, experiments, prototypes, and open-source contributions. We are constantly working on new projects, so be sure to check back regularly for updates.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Blog & Research Insights
+[Read Our Blog](https://www.research.geodan.nl)
